@@ -1,2 +1,2 @@
-# blog-img
-just blog-img
+# blog-imgs
+just blog-imgs
